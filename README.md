@@ -1,2 +1,2 @@
-# solidworks
+# 3D Things
 design, and drawings
